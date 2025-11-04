@@ -19,6 +19,8 @@ The primary purpose of analyzing this dataset is to extract valuable insights to
 
 5) Streamlining Inventory Management: Using sales and demand data to enhance inventory planning, reduce instances of overstock and stockouts, and improve overall inventory efficiency.
 
+   ![Image](https://github.com/user-attachments/assets/b9ed8771-f388-44d5-9933-bab8a187d3c6)
+
 ## DataSet:
 
 1) InvoiceNo
