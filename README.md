@@ -39,6 +39,9 @@ The primary purpose of analyzing this dataset is to extract valuable insights to
 
 8) Country
 
+<img width="1102" height="725" alt="image" src="https://github.com/user-attachments/assets/489b88fd-9dbd-4c26-a6f9-3f846c14fb22" />
+
+
 ## Conclusion:
 
 This project aimed to analyze and model the online retail data of Myntra Gifts Ltd., focusing on enhancing business strategies through data-driven insights. By working with a comprehensive dataset covering transactions from December 2009 to December 2011, we conducted a thorough analysis of sales patterns, customer behavior, and product performance.
